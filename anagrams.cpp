@@ -1,3 +1,9 @@
+/*
+  Solution of Anagrams problem from TopCoder.com
+  Rakesh Kumar, cpp.rakesh(at)gmail.com
+  Jan 9th, 2017
+*/
+
 #include <cstdio>
 #include <string>
 #include <vector>
