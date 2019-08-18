@@ -30,6 +30,6 @@ int main() {
     printf("%d\n", s.getValue("TRADINGFEW", "LGXWEV"));
     printf("%d\n", s.getValue("ABCDEFGHIJ", "XJ"));
     printf("%d\n", s.getValue("CRYSTALBUM", "MMA"));
-    
+
     return 0;
 }
